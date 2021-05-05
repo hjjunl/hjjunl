@@ -12,12 +12,15 @@ hyunjun960214@gmail.com
 
 -Language proficiency in English and Korean
 
-## Experience	 
-### Meal Generation (미식의 시대) / Intern
-July - August, 2020,  Seoul, Korea, https://www.mealgen.net
-Optimization of the main database using MySql
-Pattern recognition from the client data traffic
-Planned additional contents for mobile applications
+## Experience
+
+### Working Experinence
+
+-Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
+	1. Optimization of the main database using MySql
+	2. Pattern recognition from the client data traffic
+	3. Planned additional contents for mobile applications
+
 A.I. Cost Management and Prediction Platform / Project Manager
 October 2020 - Current, Kwangwoon University, Seoul, Korea
 Using Django to build a platform for small enterprises for the prediction of optimal cost 
