@@ -2,7 +2,7 @@
 ### Email
 hyunjun960214@gmail.com
 ---------------------------------------
-## Working Experinence
+### Working Experinence
 
 #### Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
 * Optimization of the main database using MySql
@@ -28,7 +28,7 @@ hyunjun960214@gmail.com
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
 * Dispatched to the anti-terror unit for the XXIII Olympic Winter Games 
 ---------------------------------------
-## Skills	 
+### Skills	 
 * python
 * Tableau
 * MySql, MariaDB 
