@@ -1,5 +1,4 @@
 # John Hyun Jun Lee (이현준)
-# Email
 hyunjun960214@gmail.com
 ---------------------------------------
 ### Working Experinence
