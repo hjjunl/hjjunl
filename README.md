@@ -1,12 +1,11 @@
-# HyunJun Lee
+#John Hyun Jun Lee (이현준)
 
-John H. J. Lee
-Future Developer	 
-John Hyun Jun Lee (이현준)
-1005 Heolleung-ro, Apt. 5802-701
-Sujeong-gu, Seongnam-si
-Gyeonggi-do 13644, Republic of Korea
-+82-10-8967-1353
+Future Developer
+
+Seoul, Republic of Korea
+
+
+#Email
 hyunjun960214@gmail.com
 ㅡ
 Skills	 
