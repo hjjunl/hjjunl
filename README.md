@@ -5,12 +5,11 @@ Future Developer
 ## Seoul, Republic of Korea
 
 
-#Email
+## Email
 hyunjun960214@gmail.com
-ㅡ
-Skills	 
-Python, MySql, Django, C++, Java, Android, Spark, etc.
-Language proficiency in English and Korean
+## Coding Skills	 
+-Python, MySql, Django, C++, Java, Android, Spark, etc.
+-Language proficiency in English and Korean
 ㅡ
 Experience	 
 Meal Generation (미식의 시대) / Intern
