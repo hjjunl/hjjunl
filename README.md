@@ -1,27 +1,27 @@
-# John Hyun Jun Lee (이현준)
-<hyunjun960214@gmail.com>
+## John Hyun Jun Lee (이현준 <hyunjun960214@gmail.com>)
+
 ---------------------------------------
 ### Working Experinence
 
-#### Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
+#### 1. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
 * Optimization of the main database using MySql
 * Pattern recognition from the client data traffic
 * Planned additional contents for mobile applications
 
-#### A.I. Cost Management and Prediction Platform / Database manager
+#### 2. A.I. Cost Management and Prediction Platform / Database manager
 * October 2020 - Current, Kwangwoon University, Seoul, Korea
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
 * MariaDB, Django_DB, Python, Java scripts are used
-#### Big Data Analysis Project
+#### 3. Big Data Analysis Project
 * Data Visualization / Project Manager
 * September - December 2020, Kwangwoon University, Seoul, Korea
 * Using credit card (BC Card) data for cunsuming of supply chain (Covid-19)
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
-#### Ewha School of Business / Research Assistant
+#### 4. Ewha School of Business / Research Assistant
 * March - August 2020, Seoul, Korea
 * Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
-#### Served in Korean Army
+#### 5. Served in Korean Army
 * Republic of Korea Army / Sergeant
 * April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
