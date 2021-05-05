@@ -1,13 +1,7 @@
 # John Hyun Jun Lee (이현준)
-
-Future Developer
-
-## Seoul, Republic of Korea
-
-
-## Email
+### Email
 hyunjun960214@gmail.com
-## Skills	 
+### Skills	 
 -Python, MySql, Django, C++, Java, Android, Spark, etc.
 
 -Language proficiency in English and Korean
