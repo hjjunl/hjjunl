@@ -1,8 +1,8 @@
-#John Hyun Jun Lee (이현준)
+# John Hyun Jun Lee (이현준)
 
 Future Developer
 
-Seoul, Republic of Korea
+## Seoul, Republic of Korea
 
 
 #Email
