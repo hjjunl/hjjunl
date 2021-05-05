@@ -1,8 +1,8 @@
 # John Hyun Jun Lee (이현준)
 ### Email
 hyunjun960214@gmail.com
-
-### Working Experinence
+---------------------------------------
+## Working Experinence
 
 #### Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
 * Optimization of the main database using MySql
@@ -27,7 +27,8 @@ hyunjun960214@gmail.com
 * April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
 * Dispatched to the anti-terror unit for the XXIII Olympic Winter Games 
-### Skills	 
+---------------------------------------
+## Skills	 
 * python
 * Tableau
 * MySql, MariaDB 
@@ -37,20 +38,20 @@ hyunjun960214@gmail.com
 * Spark
 * html, javascript, css, etc.
 * Language proficiency in English and Korean
-* 
+--------------------------------------- 
 ### Education	 
 * Kwangwoon University / B.S. Candidate
 * March 2016 - Now,  Seoul, Korea 
 * Major in Computer Software Engineering
 * Minor in Business Administration
 * Yatap High School / Diploma / March 2013 - February 2016, Seongnam-si, Gyeonggi-do, Korea
-
+---------------------------------------
 ### Reference	 
 * Paul Moon Sub Choi / Ph.D.
 * Associate Professor of Finance
 * Ewha School of Business, Seoul, Korea
 * paul.choi@ewha.ac.kr, +82-10-8723-6385
-					 
+---------------------------------------					 
 ### Award
 * The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI Based ICT Sevice Idea Competiton "Salice"/ First Prize 
 * Integrated Award at Kwang Woon University’s/ Data Visualization / Project Manager
