@@ -7,12 +7,13 @@ Future Developer
 
 ## Email
 hyunjun960214@gmail.com
-## Coding Skills	 
+## Skills	 
 -Python, MySql, Django, C++, Java, Android, Spark, etc.
+
 -Language proficiency in English and Korean
-ㅡ
-Experience	 
-Meal Generation (미식의 시대) / Intern
+
+## Experience	 
+### Meal Generation (미식의 시대) / Intern
 July - August, 2020,  Seoul, Korea, https://www.mealgen.net
 Optimization of the main database using MySql
 Pattern recognition from the client data traffic
