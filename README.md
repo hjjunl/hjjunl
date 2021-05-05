@@ -28,7 +28,7 @@
 * Dispatched to the anti-terror unit for the XXIII Olympic Winter Games 
 ---------------------------------------
 ### Skills	 
-* python
+* Python
 * Tableau
 * MySql, MariaDB 
 * Django 
@@ -39,17 +39,15 @@
 * Language proficiency in English and Korean
 --------------------------------------- 
 ### Education	 
-* Kwangwoon University / B.S. Candidate
-* March 2016 - Now,  Seoul, Korea 
+* Kwangwoon University / B.S. Candidate / March 2016 - Now,  Seoul, Korea 
 * Major in Computer Software Engineering
 * Minor in Business Administration
-* Yatap High School / Diploma / March 2013 - February 2016, Seongnam-si, Gyeonggi-do, Korea
 ---------------------------------------
 ### Reference	 
-* Paul Moon Sub Choi / Ph.D.
-* Associate Professor of Finance
-* Ewha School of Business, Seoul, Korea
-* paul.choi@ewha.ac.kr, +82-10-8723-6385
+Paul Moon Sub Choi / Ph.D.
+Associate Professor of Finance
+Ewha School of Business, Seoul, Korea
+paul.choi@ewha.ac.kr, +82-10-8723-6385
 ---------------------------------------					 
 ### Award
 * The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI Based ICT Sevice Idea Competiton "Salice"/ First Prize 
