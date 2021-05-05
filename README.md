@@ -2,27 +2,27 @@
 ### Email
 hyunjun960214@gmail.com
 ### Skills	 
--Python
--MySql, MariaDB 
--Django 
--C++, C 
--Java, Android 
--Spark
--html, javascript, css, etc.
--Language proficiency in English and Korean
+* python
+* MySql, MariaDB 
+* Django 
+* C++, C 
+* Java, Android 
+* Spark
+* html, javascript, css, etc.
+* Language proficiency in English and Korean
 
 ## Experience
 
 ### Working Experinence
 
 -Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
-	1. Optimization of the main database using MySql
-	2. Pattern recognition from the client data traffic
-	3. Planned additional contents for mobile applications
+	* Optimization of the main database using MySql
+	* Pattern recognition from the client data traffic
+	* Planned additional contents for mobile applications
 
-A.I. Cost Management and Prediction Platform / Project Manager
-October 2020 - Current, Kwangwoon University, Seoul, Korea
-Using Django to build a platform for small enterprises for the prediction of optimal cost 
+* A.I. Cost Management and Prediction Platform / Database manager
+* October 2020 - Current, Kwangwoon University, Seoul, Korea
+* Using Django to build a platform for small enterprises for the prediction of optimal cost 
 MariaDB, Django_DB, Python, Java scripts are used
 Data Visualization / Project Manager
 September - December 2020, Kwangwoon University, Seoul, Korea
