@@ -2,8 +2,13 @@
 ### Email
 hyunjun960214@gmail.com
 ### Skills	 
--Python, MySql, Django, C++, Java, Android, Spark, etc.
-
+-Python
+-MySql, MariaDB 
+-Django 
+-C++, C 
+-Java, Android 
+-Spark
+-html, javascript, css, etc.
 -Language proficiency in English and Korean
 
 ## Experience
