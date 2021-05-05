@@ -1,5 +1,5 @@
 # John Hyun Jun Lee (이현준)
-hyunjun960214@gmail.com
+<hyunjun960214@gmail.com>
 ---------------------------------------
 ### Working Experinence
 
