@@ -1,6 +1,5 @@
-## John Hyun Jun Lee (이현준 <hyunjun960214@gmail.com>)
-
----------------------------------------
+## John Hyun Jun Lee (이현준)
+<a href="mailto:hyunjun960214@gmail.com"><img src="https://camo.githubusercontent.com/1570eac2abb0ee5c3b11c4bede427e452a090b6049cc539e303805a24141a153/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6a636972636c65363740676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jcircle67@gmail.com" style="max-width:100%;"></a>
 ### Working Experinence
 
 #### 1. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
@@ -8,14 +7,14 @@
 * Pattern recognition from the client data traffic
 * Planned additional contents for mobile applications
 
-#### 2. A.I. Cost Management and Prediction Platform / Database manager
+#### 2. A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - Current, Kwangwoon University, Seoul, Korea
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
 * MariaDB, Django_DB, Python, Java scripts are used
 #### 3. Big Data Analysis Project
 * Data Visualization / Project Manager
 * September - December 2020, Kwangwoon University, Seoul, Korea
-* Using credit card (BC Card) data for cunsuming of supply chain (Covid-19)
+* Using credit card (BC Card) data to find change of cunsuming supply chain (Covid-19)
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
 #### 4. Ewha School of Business / Research Assistant
