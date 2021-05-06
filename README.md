@@ -21,10 +21,9 @@
 * March - August 2020, Seoul, Korea
 * Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
 #### 5. Served in Korean Army
-* Republic of Korea Army / Sergeant
-* April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
+* Republic of Korea Army / Sergeant / April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
-* Dispatched to the anti-terror unit for the XXIII Olympic Winter Games 
+* Dispatched to the anti-terror unit for the XXIII Olympic Winter Games and Paralympic Games (2018 Korea)
 ---------------------------------------
 ### Skills	 
 * Python
