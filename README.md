@@ -43,14 +43,14 @@
 * Minor in Business Administration
 ---------------------------------------
 ### Award
-* The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI Based ICT Sevice Idea Competiton "Salice"/ First Prize https://www.youtube.com/watch?v=cbhau4AIL3o&t=477s
+* The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI ICT Sevice Idea Competiton "Salice"/ First Prize https://www.youtube.com/watch?v=cbhau4AIL3o&t=477s
 * Integrated Award at Kwang Woon University’s/ Data Visualization / Project Manager
 ---------------------------------------	
 ### Reference	 
 Paul Moon Sub Choi / Ph.D.
 Associate Professor of Finance
 Ewha School of Business, Seoul, Korea
-paul.choi@ewha.ac.kr, +82-10-8723-6385
+paul.choi@ewha.ac.kr
 				 
 
 					
