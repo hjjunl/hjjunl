@@ -33,7 +33,7 @@
 * C++, C 
 * Java, Android 
 * Spark
-* html, javascript, css, etc.
+* HTML, JAVASCRIPT, CSS, etc.
 * Language proficiency in English and Korean
 --------------------------------------- 
 ### Education	 
