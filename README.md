@@ -14,7 +14,7 @@
 #### 3. Big Data Analysis Project
 * Data Visualization / Project Manager
 * September - December 2020, Kwangwoon University, Seoul, Korea
-* Using credit card (BC Card) data to find change of cunsuming supply chain (Covid-19)
+* Using credit card (BC Card) data to find change of consuming supply chain (Covid-19)
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
 #### 4. Ewha School of Business / Research Assistant
@@ -42,7 +42,7 @@
 * Minor in Business Administration
 ---------------------------------------
 ### Award
-* The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI ICT Sevice Idea Competiton "Salice"/ First Prize https://www.youtube.com/watch?v=cbhau4AIL3o&t=477s
+* The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI ICT Service Idea Competiton "Salice"/ First Prize https://www.youtube.com/watch?v=cbhau4AIL3o&t=477s
 * Integrated Award at Kwang Woon University’s/ Data Visualization / Project Manager
 ---------------------------------------	
 ### Reference	 
