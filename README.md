@@ -10,7 +10,7 @@
 #### 2. A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - Current, Kwangwoon University, Seoul, Korea
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
-* MariaDB, Django_DB, Python, Java scripts are used
+* MariaDB, Django, Python, Java scripts are used
 #### 3. Big Data Analysis Project
 * Data Visualization / Project Manager
 * September - December 2020, Kwangwoon University, Seoul, Korea
