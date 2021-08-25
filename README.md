@@ -19,15 +19,16 @@
 * Using credit card (BC Card) data to find change of consuming supply chain (Covid-19)
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
-#### 4. Ewha School of Business / Research Assistant
-* March - August 2020, Seoul, Korea
-* Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
-
-#### 5. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
+* 
+#### 4. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
 * Optimization of the main database using MySql
 * Pattern recognition from the client data traffic
 * Planned additional contents for mobile applications
-* 
+
+#### 5. Ewha School of Business / Research Assistant
+* March - August 2020, Seoul, Korea
+* Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
+
 #### 6. Served in Korean Army
 * Republic of Korea Army / Sergeant / April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
