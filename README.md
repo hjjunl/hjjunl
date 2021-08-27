@@ -4,9 +4,7 @@
 ### Working Experinence
 
 #### 1. Amkor Technology (엠코 테크놀로지)  2021 August-Current,  Incen, Korea, https://amkor.com / Internship
-* Optimization of the main database using MySql
-* Pattern recognition from the client data traffic
-* Planned additional contents for mobile applications
+* Automation
 
 #### 2. A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - May 2021, Kwangwoon University, Seoul, Korea
