@@ -4,7 +4,7 @@
 ### Working Experinence
 
 #### 1. Amkor Technology (엠코 테크놀로지)  2021 August-Current,  Incen, Korea, https://amkor.com / Internship
-* Automation
+* Work automation
 
 #### 2. A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - May 2021, Kwangwoon University, Seoul, Korea
