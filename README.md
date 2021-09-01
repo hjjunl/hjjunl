@@ -11,8 +11,8 @@
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
 * MariaDB, Django, Python, Java scripts are used
 * Build Prophet model to compare with LSTM + Bayesian model
-#### 3. Big Data Analysis Project
-* Data Visualization / Project Manager
+#### 3. Big Data Analysis Project / Project Manager
+* Data Visualization 
 * September - December 2020, Kwangwoon University, Seoul, Korea
 * Using credit card (BC Card) data to find change of consuming supply chain (Covid-19)
 * Used Tableau for data visualization
