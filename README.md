@@ -20,7 +20,7 @@
 * Using credit card (BC Card) data to find change of consuming supply chain (Covid-19)
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
-* 
+
 #### 4. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
 * Optimization of the main database using MySql
 * Pattern recognition from the client data traffic
