@@ -4,7 +4,7 @@
 ### Working Experinence
 
 #### 1. Amkor Technology (엠코 테크놀로지)  2021 August-Current,  Incen, Korea, https://amkor.com / Internship
-* August 2021 - Current, Amkor Technology Korea, Incheon, Korea
+* August 2021 - Current, Amkor Technology, Incheon, Korea
 * Work Automation
 * Data Processing
 * Data crawling
