@@ -39,7 +39,7 @@
 * Python
 * Tableau
 * MySql, MariaDB 
-* Django 
+* Django, Flask 
 * C++, C 
 * Java, Android 
 * Spark
