@@ -14,6 +14,8 @@
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
 * MariaDB, Django, Python, Java scripts are used
 * Build Prophet model to compare with LSTM + Bayesian model
+* URL: https://www.youtube.com/watch?v=N9mTU6sIqak
+
 #### 3. Big Data Analysis Project / Project Manager
 * Data Visualization 
 * September - December 2020, Kwangwoon University, Seoul, Korea
