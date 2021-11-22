@@ -7,8 +7,7 @@
 * August 2021 - Current, Amkor Technology, Incheon, Korea
 * Work Automation
 * Data Processing
-* Data crawling
-
+* Work automation consulting
 #### 2. A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - May 2021, Kwangwoon University, Seoul, Korea
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
@@ -17,7 +16,6 @@
 * URL: https://www.youtube.com/watch?v=N9mTU6sIqak
 
 #### 3. Big Data Analysis Project / Project Manager
-* Data Visualization 
 * September - December 2020, Kwangwoon University, Seoul, Korea
 * Using credit card (BC Card) data to find change of consuming supply chain (Covid-19)
 * Used Tableau for data visualization
