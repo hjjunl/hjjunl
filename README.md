@@ -3,8 +3,8 @@
 
 ### Working Experinence
 
-#### 1. Amkor Technology (엠코 테크놀로지)https://amkor.com / Internship
-* August 2021 - Current, Amkor Technology, Incheon, Korea
+#### 1. Amkor Technology (엠코 테크놀로지) https://amkor.com / Internship
+* August 2021 - Current, Incheon, Korea
 * Work Automation
 * Data Processing
 * Work automation consulting
@@ -21,7 +21,8 @@
 * Used Tableau for data visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
 
-#### 4. Meal Generation (미식의 시대) July - August, 2020,  Seoul, Korea, https://www.mealgen.net / Internship
+#### 4. Meal Generation (미식의 시대 https://www.mealgen.net / Internship
+* July - August, 2020,  Seoul, Korea
 * Optimization of the main database using MySql
 * Pattern recognition from the client data traffic
 * Planned additional contents for mobile applications
