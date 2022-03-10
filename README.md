@@ -34,7 +34,7 @@
 #### 5. Ewha School of Business / Research Assistant
 * March - August 2020, Seoul, Korea
 * Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
-Book: https://link.springer.com/book/10.1007/978-981-33-6137-9?noAccess=true#editorsandaffiliations
+<br> Book: https://link.springer.com/book/10.1007/978-981-33-6137-9?noAccess=true#editorsandaffiliations
 #### 6. Served in Korean Army
 * Republic of Korea Army / Sergeant / April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
