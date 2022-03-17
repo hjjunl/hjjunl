@@ -4,7 +4,7 @@
 <img
 src="http://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&link=https://instagram.com/hjjunl/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/hjjunl">
+</a> 
 
 
 ## Current Work
