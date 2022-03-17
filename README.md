@@ -2,7 +2,7 @@
 <a href="mailto:hyunjun960214@gmail.com"><img src="https://camo.githubusercontent.com/1570eac2abb0ee5c3b11c4bede427e452a090b6049cc539e303805a24141a153/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6a636972636c65363740676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jcircle67@gmail.com" style="max-width:100%;"></a>
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjun-lee-a37448212/)](https://www.linkedin.com/in/hyunjun-lee-a37448212/)
 <img
-src="http://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+src="http://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&link=https://instagram.com/hjjunl/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://instagram.com/hjjunl">
 
