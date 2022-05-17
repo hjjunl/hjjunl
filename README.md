@@ -9,11 +9,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ## Current Work
 #### Agile Soda (애자일 소다 http://www.agilesoda.com/)
-Optimization Consulting Team · Research Engineer
+Data Science Team · Research Engineer
 * Febuary 2022 - Current
 * AI Consulting
 * Build ML Models for other Company
-* Data Processing (Data Mart)
+* Data Processing
+* Building Data Mart
 ## Working Experinence
 #### 1. Amkor Technology (엠코 테크놀로지 https://amkor.com / Internship)
 * August 2021 - January 2022, Incheon, Korea
@@ -53,8 +54,9 @@ Optimization Consulting Team · Research Engineer
 * Major in Computer Software Engineering
 * Minor in Business Administration
 #### 2. Currently working on Georgia Tech MicroMasters
+<Done>
 - ® Program in Analytics: Computing for Data Analysis
-- Link: https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods
+- Link:https://courses.edx.org/certificates/cdf50b10c582400bb12cb9effc547bcc
 ---------------------------------------
 ### Award
 * The Korean Institute of Communications and Information Sciences (KICS) / 5G/AI ICT Service Idea Competiton "Salice"/ First Prize https://www.youtube.com/watch?v=cbhau4AIL3o&t=477s
