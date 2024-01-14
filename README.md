@@ -8,43 +8,50 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 ## Current Work
+#### Ernst & Young (EY한영 http://www.ey.com/)
+Technology Consulting · Consultant
+* April 2023 - Current
+* Technology Consulting
+* Data Analyiss
+* PMO
+
+## Working Experinence
 #### Agile Soda (애자일 소다 http://www.agilesoda.com/)
 Data Science Team · Research Engineer
-* Febuary 2022 - Current
+* Febuary 2022 - April 2023
 * AI Consulting
 * Build ML Models for other Company
 * Data Processing
 * Building Data Mart
-## Working Experinence
-#### 1. Amkor Technology (엠코 테크놀로지 https://amkor.com / Internship)
+#### Amkor Technology (엠코 테크놀로지 https://amkor.com / Internship)
 * August 2021 - January 2022, Incheon, Korea
 * Work Automation using Python
 * Log data Processing
 * Report Automation using Python and SQL
-#### 2. A.I. Cost Management and Prediction Platform / Database Manager
+#### A.I. Cost Management and Prediction Platform / Database Manager
 * October 2020 - May 2021, Kwangwoon University, Seoul, Korea
 * Using Django to build a platform for small enterprises for the prediction of optimal cost 
 * MariaDB, Django, Python, Java scripts are used
 * Build Prophet model to compare with LSTM + Bayesian model
 * URL: https://www.youtube.com/watch?v=N9mTU6sIqak
 
-#### 3. Big Data Analysis Project / Project Manager
+#### Big Data Analysis Project / Project Manager
 * September - December 2020, Kwangwoon University, Seoul, Korea
 * Using credit card (BC Card) Data to find change of consuming supply chain (Covid-19)
 * Used Tableau and Python for Data Visualization
 * Used Python to crawl data from news clips on the Internet for recognition during the Covid-19 period 
 
-#### 4. Meal Generation (미식의 시대 https://www.mealgen.net / Internship)
+#### Meal Generation (미식의 시대 https://www.mealgen.net / Internship)
 * July - August, 2020,  Seoul, Korea
 * Optimization of the main database using MySql
 * Pattern recognition from the client data traffic
 * Planned additional contents for mobile applications
 
-#### 5. Ewha School of Business / Research Assistant
+#### Ewha School of Business / Research Assistant
 * March - August 2020, Seoul, Korea
 * Provided research assistance to Professor Paul Moon Sub Choi’s book chapters on fintech, artificial intelligence, big data, and blockchain 
 <br> Book: https://link.springer.com/book/10.1007/978-981-33-6137-9?noAccess=true#editorsandaffiliations
-#### 6. Served in Korean Army
+#### Served in Korean Army
 * Republic of Korea Army / Sergeant / April 2017 - January 2019, Samcheok-si, Gangwon-do, Korea
 * Military service in the 23rd ROKA Division with a 90mm Bazooka (anti-tank artillery) specialty
 * Dispatched to the anti-terror unit for the XXIII Olympic Winter Games and Paralympic Games (2018 Korea)
@@ -53,7 +60,7 @@ Data Science Team · Research Engineer
 #### 1. Kwangwoon University / B.S. Candidate / March 2016 - Febuary 2022,  Seoul, Korea 
 * Major in Computer Software Engineering
 * Minor in Business Administration
-#### 2. Currently working on Georgia Tech MicroMasters
+#### 2. Georgia Tech MicroMasters
 - ® Program in Analytics: Computing for Data Analysis(Done)
 - Link: https://courses.edx.org/certificates/cdf50b10c582400bb12cb9effc547bcc
 
